@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="173" height="173" viewBox="0 0 173 173">
+  <defs>
+    <linearGradient id="blackswap_symbol-a" x1="100%" x2=".258%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ABA5E4"/>
+      <stop offset="41.997%" stop-color="#84AAD7"/>
+      <stop offset="100%" stop-color="#EB51EC"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#blackswap_symbol-a)" fill-rule="evenodd" d="M0,173 L0,86 C0.270389263,38.4575616 38.8940722,-1.42108547e-14 86.5,-1.42108547e-14 C134.272631,-1.42108547e-14 173,38.7273691 173,86.5 C173,134.272631 134.272631,173 86.5,173 L87,172.996 L87,173 L0,173 Z" transform="matrix(1 0 0 -1 0 173)"/>
+</svg>
